@@ -1,0 +1,26 @@
+#main {
+    font-family: Outfit;
+    background-color: hsl(212, 45%, 89%);
+}
+
+#main p {
+    text-align: center;
+    font-size: 15px;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#qrcode {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#qrcodecomponent {
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
